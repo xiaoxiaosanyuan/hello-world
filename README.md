@@ -1,2 +1,3 @@
 # hello-world
-just a test repository
+
+hi guys,it's my first time here.
